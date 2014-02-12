@@ -1,0 +1,201 @@
+Input.name,University of Washington,University of Washington,University of Washington
+1Name,Richard Anderson,Richard Anderson,Richard Anderson
+1Url,https://www.cs.washington.edu/people/faculty/anderson/,https://www.cs.washington.edu/people/faculty/anderson/,https://www.cs.washington.edu/people/faculty/anderson/
+2Name,Ruth E. Anderson,Ruth E. Anderson,Ruth E. Anderson
+2Url,http://homes.cs.washington.edu/~rea,http://homes.cs.washington.edu/~rea/,http://homes.cs.washington.edu/~rea/
+3Name,Tom Anderson,Tom Anderson,Tom Anderson
+3Url,http://www.cs.washington.edu/people/faculty/tom/,http://www.cs.washington.edu/people/faculty/tom/,http://www.cs.washington.edu/people/faculty/tom/
+4Name,Jean-Loup Baer,Magdalena Balazinska,Jean-Loup Baer
+4Url,http://homes.cs.washington.edu/~baer/,http://www.cs.washington.edu/people/faculty/magda/,http://homes.cs.washington.edu/~baer/
+5Name,Magdalena Balazinska,Paul Beame,Magdalena Balazinska
+5Url,http://www.cs.washington.edu/people/faculty/magda/,http://www.cs.washington.edu/people/faculty/beame/,http://www.cs.washington.edu/people/faculty/magda/
+6Name,Paul Beame,Alan Borning,Paul Beame
+6Url,http://www.cs.washington.edu/people/faculty/beame/,http://www.cs.washington.edu/people/faculty/borning/,http://www.cs.washington.edu/people/faculty/beame/
+7Name,Alan Borning,Gaetano Borriello,Alan Borning
+7Url,http://www.cs.washington.edu/people/faculty/borning/,https://www.cs.washington.edu/people/faculty/gaetano,http://www.cs.washington.edu/people/faculty/borning/
+8Name,Gaetano Borriello,Maya Cakmak,Gaetano Borriello
+8Url,https://www.cs.washington.edu/people/faculty/gaetano,http://www.mayacakmak.com/home,https://www.cs.washington.edu/people/faculty/gaetano
+9Name,Maya Cakmak,Luis Ceze,Maya Cakmak
+9Url,http://www.mayacakmak.com/home,http://www.cs.washington.edu/people/faculty/luisceze,http://www.mayacakmak.com/home
+10Name,Laura Campbell,Brian Curless,Luis Ceze
+10Url,http://www.cs.washington.edu/people/faculty/campbell,http://www.cs.washington.edu/people/faculty/curless,http://www.cs.washington.edu/people/faculty/luisceze
+11Name,Luis Ceze,Pedro Domingos,Brian Curless
+11Url,http://www.cs.washington.edu/people/faculty/luisceze,http://www.cs.washington.edu/people/faculty/pedrod/,http://www.cs.washington.edu/people/faculty/curless
+12Name,Brian Curless,Michael Ernst,Tom Daniel
+12Url,http://www.cs.washington.edu/people/faculty/curless,http://www.cs.washington.edu/people/faculty/mernst/,https://www.cs.washington.edu/people/faculty/danielt/
+13Name,Tom Daniel,Oren Etzioni,Pedro Domingos
+13Url,https://www.cs.washington.edu/people/faculty/danielt/,http://homes.cs.washington.edu/~etzioni/,http://www.cs.washington.edu/people/faculty/pedrod/
+14Name,Pedro Domingos,Ali Farhadi,Laura Campbell
+14Url,http://www.cs.washington.edu/people/faculty/pedrod/,http://www.cs.washington.edu/people/faculty/ali/,http://www.cs.washington.edu/people/faculty/campbell
+15Name,Susan Eggers,James Fogarty,Susan Eggers
+15Url,http://www.cs.washington.edu/people/faculty/eggers/,http://www.cs.washington.edu/people/faculty/jfogarty/,http://www.cs.washington.edu/people/faculty/eggers/
+16Name,Michael Ernst,Dieter Fox,Michael Ernst
+16Url,http://www.cs.washington.edu/people/faculty/mernst/,http://www.cs.washington.edu/people/faculty/fox/,http://www.cs.washington.edu/people/faculty/mernst/
+17Name,Oren Etzioni,Shyam Gollakota,Oren Etzioni
+17Url,http://homes.cs.washington.edu/~etzioni/,http://www.cs.washington.edu/people/faculty/gshyam/,http://homes.cs.washington.edu/~etzioni/
+18Name,Ali Farhadi,Steven D. Gribble,Ali Farhadi
+18Url,http://www.cs.washington.edu/people/faculty/ali/,http://homes.cs.washington.edu/~gribble/,http://www.cs.washington.edu/people/faculty/ali/
+19Name,James Fogarty,Dan Grossman,James Fogarty
+19Url,http://www.cs.washington.edu/people/faculty/jfogarty/,http://www.cs.washington.edu/people/faculty/djg/,http://www.cs.washington.edu/people/faculty/jfogarty/
+20Name,Dieter Fox,Carlos Guestrin,Dieter Fox
+20Url,http://www.cs.washington.edu/people/faculty/fox/,http://www.cs.washington.edu/people/faculty/guestrin/,http://www.cs.washington.edu/people/faculty/fox/
+21Name,Hellmut Golde,Jeffrey Heer,Shyam Gollakota
+21Url,http://www.cs.washington.edu/people/faculty/,http://www.cs.washington.edu/people/faculty/jheer,http://www.cs.washington.edu/people/faculty/gshyam/
+22Name,Shyam Gollakota,Anna R. Karlin,Steven D. Gribble
+22Url,http://www.cs.washington.edu/people/faculty/gshyam/,http://www.cs.washington.edu/people/faculty/karlin/,http://homes.cs.washington.edu/~gribble/
+23Name,Steve Gribble,Ira Kemelmacher-Shlizerman,Dan Grossman
+23Url,http://homes.cs.washington.edu/~gribble/,http://www.cs.washington.edu/people/faculty/kemelmi/,http://www.cs.washington.edu/people/faculty/djg/
+24Name,Dan Grossman,Tadayoshi Kohno,Carlos Guestrin
+24Url,http://www.cs.washington.edu/people/faculty/djg/,http://homes.cs.washington.edu/~yoshi/,http://www.cs.washington.edu/people/faculty/guestrin/
+25Name,Carlos Guestrin,Arvind Krishnamurthy,Jeffrey Heer
+25Url,http://www.cs.washington.edu/people/faculty/guestrin/,https://www.cs.washington.edu/people/faculty/arvind/,http://www.cs.washington.edu/people/faculty/jheer
+26Name,Jeffrey Heer,Richard Ladner,Bruce Hemingway
+26Url,http://www.cs.washington.edu/people/faculty/jheer,http://www.cs.washington.edu/people/faculty/ladner/,http://www.cs.washington.edu/people/faculty/bruceh/
+27Name,Bruce Hemingway,James A. Landay,Anna R. Karlin
+27Url,http://www.cs.washington.edu/people/faculty/bruceh/,http://homes.cs.washington.edu/~landay/,http://www.cs.washington.edu/people/faculty/karlin/
+28Name,Anna Karlin,Su-In Lee,Ted Kehl
+28Url,http://www.cs.washington.edu/people/faculty/karlin/,http://suinlee.cs.washington.edu/,https://homes.cs.washington.edu/~ted/
+29Name,Ted Kehl,Barbara Mones,Ira Kemelmacher-Shlizerman
+29Url,https://homes.cs.washington.edu/~ted/,http://www.cs.washington.edu/people/faculty/mones/,http://www.cs.washington.edu/people/faculty/kemelmi/
+30Name,Ira Kemelmacher-Shlizerman,Shwetak Patel,Tadayoshi Kohno
+30Url,http://www.cs.washington.edu/people/faculty/kemelmi/,http://abstract.cs.washington.edu/~shwetak/,http://homes.cs.washington.edu/~yoshi/
+31Name,Tadayoshi Kohno,Zoran Popović,Arvind Krishnamurthy
+31Url,http://homes.cs.washington.edu/~yoshi/,https://homes.cs.washington.edu/~zoran/,https://www.cs.washington.edu/people/faculty/arvind/
+32Name,Arvind Krishnamurthy,Anup Rao,Richard Ladner
+32Url,https://www.cs.washington.edu/people/faculty/arvind/,https://www.cs.washington.edu/people/faculty/anuprao/,http://www.cs.washington.edu/people/faculty/ladner/
+33Name,Richard E. Ladner,Steven Seitz,James A. Landay
+33Url,http://www.cs.washington.edu/people/faculty/ladner/,http://www.cs.washington.edu/people/faculty/seitz/,http://homes.cs.washington.edu/~landay/
+34Name,James Landay,Linda Shapiro,Ed Lazowska
+34Url,http://homes.cs.washington.edu/~landay/,http://homes.cs.washington.edu/~shapiro/,http://www.cs.washington.edu/people/faculty/lazowska/
+35Name,Ed Lazowska,Larry Snyder,James Lee
+35Url,http://www.cs.washington.edu/people/faculty/lazowska/,http://www.cs.washington.edu/people/faculty/snyder,http://www.cs.washington.edu/people/faculty/jrl/
+36Name,James Lee,Dan Suciu,SU-IN LEE
+36Url,http://www.cs.washington.edu/people/faculty/jrl/,http://www.cs.washington.edu/people/faculty/suciu/,http://suinlee.cs.washington.edu/
+37Name,Su-In Lee,Zachary Tatlock,Henry M. Levy
+37Url,http://suinlee.cs.washington.edu/,http://homes.cs.washington.edu/~ztatlock/,http://www.cs.washington.edu/people/faculty/levy/
+38Name,Hank Levy,Martin Tompa,
+38Url,http://www.cs.washington.edu/people/faculty/levy/,http://www.cs.washington.edu/people/faculty/tompa/,
+39Name,Hélène Martin,Dan Weld,
+39Url,http://homes.cs.washington.edu/~ln/,http://www.cs.washington.edu/people/faculty/weld/,
+40Name,Barbara Mones,David Wetherall,
+40Url,http://www.cs.washington.edu/people/faculty/mones/,http://djw.cs.washington.edu/,
+41Name,Allison Obourn,Luke Zettlemoyer,
+41Url,http://homes.cs.washington.edu/~aeobourn/,http://www.cs.washington.edu/people/faculty/lsz/,
+42Name,Mark Oskin,,
+42Url,http://www.cs.washington.edu/people/faculty/oskin/,,
+43Name,Shayan Oveis Gharan,,
+43Url,http://www.stanford.edu/~shayan/about_me.html,,
+44Name,Shwetak Patel,,
+44Url,http://abstract.cs.washington.edu/~shwetak/,,
+45Name,Hal Perkins,,
+45Url,http://www.cs.washington.edu/people/faculty/perkins/,,
+46Name,Zoran Popović,,
+46Url,https://homes.cs.washington.edu/~zoran/,,
+47Name,Anup Rao,,
+47Url,https://www.cs.washington.edu/people/faculty/anuprao/,,
+48Name,Rajesh Rao,,
+48Url,http://www.cs.washington.edu/people/faculty/rao/,,
+49Name,Stuart Reges,,
+49Url,http://www.cs.washington.edu/people/faculty/reges/,,
+50Name,Matt Reynolds,,
+50Url,http://fds.duke.edu/db/pratt/ECE/matt.reynolds,,
+51Name,Larry Ruzzo,,
+51Url,http://www.cs.washington.edu/people/faculty/ruzzo/,,
+52Name,Georg Seelig,,
+52Url,http://homes.cs.washington.edu/~seelig/,,
+53Name,Steven Seitz,,
+53Url,http://www.cs.washington.edu/people/faculty/seitz/,,
+54Name,Linda Shapiro,,
+54Url,http://homes.cs.washington.edu/~shapiro/,,
+55Name,Alan Shaw,,
+55Url,http://www.cs.washington.edu/people/faculty/shaw,,
+56Name,Joshua R. Smith,,
+56Url,https://www.cs.washington.edu/people/faculty/jrs/,,
+57Name,Larry Snyder,,
+57Url,http://www.cs.washington.edu/people/faculty/snyder,,
+58Name,Dan Suciu,,
+58Url,http://www.cs.washington.edu/people/faculty/suciu/,,
+59Name,Steve Tanimoto,,
+59Url,http://www.cs.washington.edu/people/faculty/tanimoto/,,
+60Name,Zachary Tatlock,,
+60Url,http://homes.cs.washington.edu/~ztatlock/,,
+61Name,Emanuel Todorov,,
+61Url,http://homes.cs.washington.edu/~todorov/,,
+62Name,Martin Tompa,,
+62Url,http://www.cs.washington.edu/people/faculty/tompa/,,
+63Name,Daniel S. Weld,,
+63Url,http://www.cs.washington.edu/people/faculty/weld/,,
+64Name,David Wetherall,,
+64Url,http://djw.cs.washington.edu/,,
+65Name,John Zahorjan,,
+65Url,http://homes.cs.washington.edu/~zahorjan/homepage/,,
+66Name,Luke Zettlemoyer,,
+66Url,http://www.cs.washington.edu/people/faculty/lsz/,,
+67Name,,,
+67Url,,,
+68Name,,,
+68Url,,,
+69Name,,,
+69Url,,,
+70Name,,,
+70Url,,,
+71Name,,,
+71Url,,,
+72Name,,,
+72Url,,,
+73Name,,,
+73Url,,,
+74Name,,,
+74Url,,,
+75Name,,,
+75Url,,,
+76Name,,,
+76Url,,,
+77Name,,,
+77Url,,,
+78Name,,,
+78Url,,,
+79Name,,,
+79Url,,,
+80Name,,,
+80Url,,,
+81Name,,,
+81Url,,,
+82Name,,,
+82Url,,,
+83Name,,,
+83Url,,,
+84Name,,,
+84Url,,,
+85Name,,,
+85Url,,,
+86Name,,,
+86Url,,,
+87Name,,,
+87Url,,,
+88Name,,,
+88Url,,,
+89Name,,,
+89Url,,,
+90Name,,,
+90Url,,,
+91Name,,,
+91Url,,,
+92Name,,,
+92Url,,,
+93Name,,,
+93Url,,,
+94Name,,,
+94Url,,,
+95Name,,,
+95Url,,,
+96Name,,,
+96Url,,,
+97Name,,,
+97Url,,,
+98Name,,,
+98Url,,,
+99Name,,,
+99Url,,,
+100Name,,,
+100Url,,,
